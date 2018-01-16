@@ -26,6 +26,7 @@ function iLoveTheBealtes(number) {
   do {
     array[i] = ("I love the Beatles!")
     i++
+    number++
   } while 
     (i < 15)
     return array
