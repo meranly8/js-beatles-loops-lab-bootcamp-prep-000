@@ -28,6 +28,6 @@ function iLoveTheBealtes(number) {
     i++
     number++
   } while 
-    (i < 15)
+    (number < 15)
     return array
 }  
